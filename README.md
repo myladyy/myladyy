@@ -1,9 +1,10 @@
 # Sobre mim
 
 
-- 👋 Olá me chamo maya, sou aluno da rede Estadual do Paraná.
-- 👀 Estou interessado em aprender novas linguagens de programação e aprimorar o conhecimento na área.
-- 🌱 Atualmente estou cursando
+- 👋 Olá me chamo mayara, sou aluna da escola celia de morais de oliveira.
+- 👀 .atualmente estou estudando , e cursando .
+- tenho interesse de me formar e fazer uma faculdade futuramente , provavelmente de direitos 
+- 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
